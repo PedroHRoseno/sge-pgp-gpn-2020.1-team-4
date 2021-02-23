@@ -15,9 +15,9 @@ Este projeto tem como finalidade analisar, identificar, melhorar e tornar mais e
 ### Equipe
 * **Guilherme Santiago** - *Gerente de Projeto* - [SantiagoGui](https://github.com/santiagogui)
 * **Pedro H. Roseno** - *Modelador* - [PedroHRoseno](https://github.com/pedrohroseno)
-* **Pedro Albuquerque** - *Programador* - [joaomarkis](https://github.com/joaomarkis)
+* **Pedro Albuquerque** - *Programador* 
 * **Diego Diniz** - *Programador* - [diegodnz](https://github.com/diegodnz)
-* **Jean Grijp** - *Programador* - [](https://github.com/)
+* **Jean Grijp** - 
 * **Arlindo Maximiniano** - *Programador* - [netmx](https://github.com/netmx)
 * **Sidney Alex** - *Modelador* - [silvercent011](https://github.com/silvercent011)
 
