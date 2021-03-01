@@ -32,31 +32,31 @@ Este projeto tem como finalidade analisar, identificar, melhorar e tornar mais e
 - [x] Avaliação 360º 
 
 ### 2º Ciclo: Entedimento do Problema e Análise da Solução
-- [] Mapeamento dos fatores críticos de sucesso na implatação do SI
-- [] [Plano preliminar do projeto (Escopo, Recursos, Comunicação)]
-- [] [Modelo do processo de negócio AS-IS]
-- [] Elaboração 1º Status Report
-- [] Apresentação 1º Status Report 
-- [] Diário de atividades
-- [] Avaliação 360º
+-  Mapeamento dos fatores críticos de sucesso na implatação do SI
+-  [Plano preliminar do projeto (Escopo, Recursos, Comunicação)]
+-  [Modelo do processo de negócio AS-IS]
+-  Elaboração 1º Status Report
+-  Apresentação 1º Status Report 
+-  Diário de atividades
+-  Avaliação 360º
 
 ### 3º Ciclo: Design da Solução
-- [] Mapeamento de stakeholders RACI e Matriz de Interesse/Poder
-- [] [Diagrama Ishikawa]
-- [] Lista de requisitos
-- [] Plano preliminar do projeto (Escopo, Requisitos, Cronograma)
-- [] Modelo do processo de negócio TO-BE
-- [] Elaboração 2º Status Report
-- [] [Apresentação 2º Status Report]
-- [] Diário de atividades
-- [] Avaliação 360º
+-  Mapeamento de stakeholders RACI e Matriz de Interesse/Poder
+-  [Diagrama Ishikawa]
+-  Lista de requisitos
+-  Plano preliminar do projeto (Escopo, Requisitos, Cronograma)
+-  Modelo do processo de negócio TO-BE
+-  Elaboração 2º Status Report
+-  [Apresentação 2º Status Report]
+-  Diário de atividades
+-  Avaliação 360º
 
 ### 4º Ciclo: Entrega da Solução
-- [] Mapeamento entre Solução e Valores de negócio
-- [] [Modelo do processo de negócio i*]
-- [] Plano final do projeto 
-- [] Indicadores de desempenho do processo
-- [] Elaboração Final Report
-- [] [Apresentação Final Report]
-- [] Diário de atividades
-- [] Avaliação 360º
+-  Mapeamento entre Solução e Valores de negócio
+-  [Modelo do processo de negócio i*]
+-  Plano final do projeto 
+-  Indicadores de desempenho do processo
+-  Elaboração Final Report
+-  [Apresentação Final Report]
+-  Diário de atividades
+-  Avaliação 360º
