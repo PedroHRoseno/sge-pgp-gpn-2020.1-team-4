@@ -33,10 +33,10 @@ Este projeto tem como finalidade analisar, identificar, melhorar e tornar mais e
 
 ### 2º Ciclo: Entedimento do Problema e Análise da Solução
 - [x] Mapeamento dos fatores críticos de sucesso na implatação do SI
--  [Plano preliminar do projeto (Escopo, Recursos, Comunicação)]
--  [Modelo do processo de negócio AS-IS]
--  Elaboração 1º Status Report
--  Apresentação 1º Status Report 
+- [x] [Plano preliminar do projeto (Escopo, Recursos, Comunicação)]
+- [x] [Modelo do processo de negócio AS-IS]
+- [x] Elaboração 1º Status Report
+- [x] Apresentação 1º Status Report 
 -  Diário de atividades
 -  Avaliação 360º
 
